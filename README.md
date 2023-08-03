@@ -1,4 +1,5 @@
 # P02_Online_Sales_Analysis
+<h2><strong><em>Data Analyst Certification by OpenClassrooms, in partnership with&nbsp;ENSAE-ENSAI</em></strong></h2>
 <div>
     <div>
         <div>
