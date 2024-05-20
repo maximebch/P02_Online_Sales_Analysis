@@ -16,6 +16,7 @@
                                     <li><em>Clean a dataset</em></li>
                                 </ul>
                                 <p><em><br></em></p>
+<h1 style="text-align: center;"><a href="https://public.tableau.com/views/P02_Online_Sales_Analysis/AgeClassAnalysis?:language=fr-FR&amp;:sid=&amp;:display_count=n&amp;:origin=viz_share_link">Click here to access the Tableau Public of this project</a></h1>
                                 <h1>Analysez les ventes de votre entreprise</h1>
                             </div>
                         </div>
