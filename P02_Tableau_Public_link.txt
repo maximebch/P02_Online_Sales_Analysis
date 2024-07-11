@@ -1,1 +1,1 @@
-https://public.tableau.com/views/P02_Online_Sales_Analysis/AgeClassAnalysis?:language=fr-FR&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/OnlineSalesAnalysis_17206837513180/AgeClassAnalysisDashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
